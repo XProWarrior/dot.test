@@ -1,2 +1,2 @@
-# dot.test
+# dmt.test
 Test.
